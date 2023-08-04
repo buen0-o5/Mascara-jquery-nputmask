@@ -1,4 +1,4 @@
-# Mascara-jquery-nputmask
+# Mascara-jquery-Inputmask
 Inserindo máscara aos campos input com inputmask
 
 ## js
